@@ -1,0 +1,201 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Country/Region,City,State/Province,Postal Code,Division,Region,Product ID,Product Name,Price per Unit,Units
+1933,CA-2021-126634-CHO-FUD-51000,2021-12-20,2027-06-14,Second Class,126634,Canada,Vancouver,British Columbia,V5K,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,5
+10054,CA-2024-126634-CHO-FUD-51000,2024-12-20,2030-06-14,Second Class,126634,Canada,Vancouver,British Columbia,V5K,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1
+1176,CA-2021-153738-CHO-SCR-58000,2021-09-20,2027-03-15,First Class,153738,Canada,Toronto,Ontario,M2N,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,6
+3253,CA-2022-153738-CHO-SCR-58000,2022-09-20,2028-03-14,First Class,153738,Canada,Toronto,Ontario,M2N,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,2
+5784,CA-2023-153738-CHO-SCR-58000,2023-09-20,2029-03-14,First Class,153738,Canada,Toronto,Ontario,M2N,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,6
+8806,CA-2024-153738-CHO-SCR-58000,2024-09-20,2030-03-15,First Class,153738,Canada,Toronto,Ontario,M2N,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,6
+1084,CA-2021-126438-CHO-TRI-54000,2021-09-10,2027-03-06,First Class,126438,Canada,Montreal,Quebec,H1C,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,2
+8652,CA-2024-126438-CHO-TRI-54000,2024-09-10,2030-03-06,First Class,126438,Canada,Montreal,Quebec,H1C,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,1
+4140,CA-2022-158792-CHO-FUD-51000,2022-12-26,2028-06-24,Standard Class,158792,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,5
+6781,CA-2023-158792-CHO-FUD-51000,2023-12-26,2029-06-24,Standard Class,158792,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,5
+1870,CA-2021-151799-CHO-MIL-31000,2021-12-14,2027-06-10,Standard Class,151799,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+1871,CA-2021-151799-CHO-SCR-58000,2021-12-14,2027-06-10,Standard Class,151799,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,6
+1872,CA-2021-151799-CHO-MIL-31000,2021-12-14,2027-06-10,Standard Class,151799,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,1
+1873,CA-2021-151799-CHO-MIL-31000,2021-12-14,2027-06-10,Standard Class,151799,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,3
+1874,CA-2021-151799-CHO-MIL-31000,2021-12-14,2027-06-10,Standard Class,151799,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+9986,CA-2024-151799-CHO-MIL-31000,2024-12-14,2030-06-10,Standard Class,151799,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,5
+9987,CA-2024-151799-CHO-SCR-58000,2024-12-14,2030-06-10,Standard Class,151799,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,14
+9988,CA-2024-151799-CHO-MIL-31000,2024-12-14,2030-06-10,Standard Class,151799,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+9989,CA-2024-151799-CHO-MIL-31000,2024-12-14,2030-06-10,Standard Class,151799,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,3
+9990,CA-2024-151799-CHO-MIL-31000,2024-12-14,2030-06-10,Standard Class,151799,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,6
+2018,CA-2021-123625-CHO-MIL-31000,2021-12-29,2027-06-25,Standard Class,123625,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,8
+2019,CA-2021-141531-CHO-MIL-31000,2021-12-29,2027-06-25,Standard Class,141531,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+2020,CA-2021-123625-CHO-MIL-31000,2021-12-29,2027-06-25,Standard Class,123625,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+2021,CA-2021-123625-CHO-MIL-31000,2021-12-29,2027-06-25,Standard Class,123625,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+2022,CA-2021-141531-CHO-MIL-31000,2021-12-29,2027-06-25,Standard Class,141531,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,5
+2023,CA-2021-123625-CHO-MIL-31000,2021-12-29,2027-06-25,Standard Class,123625,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,5
+6667,CA-2023-135480-CHO-MIL-31000,2023-12-15,2029-06-13,Standard Class,135480,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+6668,CA-2023-135480-CHO-MIL-31000,2023-12-15,2029-06-13,Standard Class,135480,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,5
+9996,CA-2024-135480-CHO-MIL-31000,2024-12-15,2030-06-14,Standard Class,135480,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+9997,CA-2024-135480-CHO-MIL-31000,2024-12-15,2030-06-14,Standard Class,135480,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,5
+10185,CA-2024-141531-CHO-MIL-31000,2024-12-29,2030-06-25,Standard Class,141531,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+10186,CA-2024-141531-CHO-MIL-31000,2024-12-29,2030-06-25,Standard Class,141531,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,5
+1214,CA-2021-160325-CHO-NUT-13000,2021-09-24,2027-03-17,Same Day,160325,Canada,Montreal,Quebec,H1C,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,2
+1215,CA-2021-160325-CHO-NUT-13000,2021-09-24,2027-03-17,Same Day,160325,Canada,Montreal,Quebec,H1C,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,3
+8883,CA-2024-160325-CHO-NUT-13000,2024-09-24,2030-03-17,Same Day,160325,Canada,Montreal,Quebec,H1C,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,3
+8884,CA-2024-160325-CHO-NUT-13000,2024-09-24,2030-03-17,Same Day,160325,Canada,Montreal,Quebec,H1C,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,7
+502,CA-2021-166695-CHO-SCR-58000,2021-05-20,2026-11-14,Standard Class,166695,Canada,Vancouver,British Columbia,V6Z,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,8
+503,CA-2021-166695-CHO-FUD-51000,2021-05-20,2026-11-14,Standard Class,166695,Canada,Vancouver,British Columbia,V6Z,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1
+504,CA-2021-166695-CHO-TRI-54000,2021-05-20,2026-11-14,Standard Class,166695,Canada,Vancouver,British Columbia,V6Z,Chocolate,Pacific,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,1
+7713,CA-2024-166695-CHO-SCR-58000,2024-05-20,2029-11-14,Standard Class,166695,Canada,Vancouver,British Columbia,V6Z,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,8
+7714,CA-2024-166695-CHO-FUD-51000,2024-05-20,2029-11-14,Standard Class,166695,Canada,Vancouver,British Columbia,V6Z,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1
+7715,CA-2024-166695-CHO-TRI-54000,2024-05-20,2029-11-14,Standard Class,166695,Canada,Vancouver,British Columbia,V6Z,Chocolate,Pacific,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,1
+450,CA-2021-166086-CHO-MIL-31000,2021-05-07,2026-11-02,Standard Class,166086,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,4
+451,CA-2021-166086-CHO-NUT-13000,2021-05-07,2026-11-02,Standard Class,166086,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,2
+452,CA-2021-166086-CHO-SCR-58000,2021-05-07,2026-11-02,Standard Class,166086,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,3
+453,CA-2021-166086-CHO-MIL-31000,2021-05-07,2026-11-02,Standard Class,166086,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,3
+2510,CA-2022-132548-CHO-MIL-31000,2022-05-07,2027-11-02,Standard Class,132548,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,5
+2511,CA-2022-132548-CHO-NUT-13000,2022-05-07,2027-11-02,Standard Class,132548,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,5
+2512,CA-2022-132548-CHO-SCR-58000,2022-05-07,2027-11-02,Standard Class,132548,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,5
+2513,CA-2022-132548-CHO-MIL-31000,2022-05-07,2027-11-02,Standard Class,132548,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,5
+4749,CA-2023-169856-CHO-MIL-31000,2023-05-07,2028-11-01,Standard Class,169856,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,6
+4750,CA-2023-169856-CHO-NUT-13000,2023-05-07,2028-11-01,Standard Class,169856,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,1
+4751,CA-2023-169856-CHO-SCR-58000,2023-05-07,2028-11-01,Standard Class,169856,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,1
+4752,CA-2023-169856-CHO-MIL-31000,2023-05-07,2028-11-01,Standard Class,169856,Canada,Toronto,Ontario,M3C,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,4
+887,CA-2021-129322-CHO-FUD-51000,2021-08-08,2027-01-31,Second Class,129322,Canada,Toronto,Ontario,M5H,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,2
+888,CA-2021-129322-CHO-SCR-58000,2021-08-08,2027-01-31,Second Class,129322,Canada,Toronto,Ontario,M5H,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,2
+889,CA-2021-129322-CHO-TRI-54000,2021-08-08,2027-01-31,Second Class,129322,Canada,Toronto,Ontario,M5H,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,7
+2942,CA-2022-129322-CHO-FUD-51000,2022-08-08,2028-01-31,Second Class,129322,Canada,Toronto,Ontario,M5H,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,2
+2943,CA-2022-129322-CHO-SCR-58000,2022-08-08,2028-01-31,Second Class,129322,Canada,Toronto,Ontario,M5H,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,2
+2944,CA-2022-129322-CHO-TRI-54000,2022-08-08,2028-01-31,Second Class,129322,Canada,Toronto,Ontario,M5H,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,1
+5365,CA-2023-129322-CHO-FUD-51000,2023-08-08,2029-01-30,Second Class,129322,Canada,Toronto,Ontario,M5H,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,2
+5366,CA-2023-129322-CHO-SCR-58000,2023-08-08,2029-01-30,Second Class,129322,Canada,Toronto,Ontario,M5H,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,2
+5367,CA-2023-129322-CHO-TRI-54000,2023-08-08,2029-01-30,Second Class,129322,Canada,Toronto,Ontario,M5H,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,7
+8301,CA-2024-129322-CHO-FUD-51000,2024-08-08,2030-01-31,Second Class,129322,Canada,Toronto,Ontario,M5H,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,2
+8302,CA-2024-129322-CHO-SCR-58000,2024-08-08,2030-01-31,Second Class,129322,Canada,Toronto,Ontario,M5H,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,2
+8303,CA-2024-129322-CHO-TRI-54000,2024-08-08,2030-01-31,Second Class,129322,Canada,Toronto,Ontario,M5H,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,7
+937,CA-2021-115777-CHO-NUT-13000,2021-08-19,2027-02-14,Standard Class,115777,Canada,Montreal,Quebec,H1B,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,1
+8386,CA-2024-115777-CHO-NUT-13000,2024-08-19,2030-02-14,Standard Class,115777,Canada,Montreal,Quebec,H1B,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,1
+1380,CA-2021-100867-CHO-FUD-51000,2021-10-19,2027-04-16,Standard Class,100867,Canada,Vancouver,British Columbia,V6G,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,3
+3461,CA-2022-154231-CHO-FUD-51000,2022-10-19,2028-04-15,Standard Class,154231,Canada,Vancouver,British Columbia,V6G,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1
+5990,CA-2023-174514-CHO-FUD-51000,2023-10-19,2029-04-15,Standard Class,174514,Canada,Vancouver,British Columbia,V6G,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1
+9130,CA-2024-107004-CHO-FUD-51000,2024-10-19,2030-04-16,Standard Class,107004,Canada,Vancouver,British Columbia,V6G,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,3
+515,CA-2021-152443-CHO-FUD-51000,2021-05-21,2026-11-16,Standard Class,152443,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,6
+516,CA-2021-152443-CHO-MIL-31000,2021-05-21,2026-11-16,Standard Class,152443,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,7
+517,CA-2021-152443-CHO-MIL-31000,2021-05-21,2026-11-16,Standard Class,152443,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,3
+2275,CA-2022-150547-CHO-MIL-31000,2022-03-21,2027-09-16,Standard Class,150547,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,1
+5053,CA-2023-136547-CHO-MIL-31000,2023-06-18,2028-12-12,Standard Class,136547,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,4
+7570,CA-2024-158740-CHO-FUD-51000,2024-05-05,2029-10-31,Standard Class,158740,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1
+6586,CA-2023-141082-CHO-FUD-51000,2023-12-09,2029-06-04,Standard Class,141082,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,3
+6587,CA-2023-141082-CHO-FUD-51000,2023-12-09,2029-06-04,Standard Class,141082,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,2
+9916,CA-2024-141082-CHO-FUD-51000,2024-12-09,2030-06-05,Standard Class,141082,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1
+9917,CA-2024-141082-CHO-FUD-51000,2024-12-09,2030-06-05,Standard Class,141082,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,4
+1294,CA-2021-131807-CHO-MIL-31000,2021-10-05,2027-04-02,Standard Class,131807,Canada,Calgary,Alberta,T1Y,Chocolate,Pacific,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,4
+1295,CA-2021-131807-CHO-FUD-51000,2021-10-05,2027-04-02,Standard Class,131807,Canada,Edmonton,Alberta,T5A,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,5
+1296,CA-2021-131807-CHO-SCR-58000,2021-10-05,2027-04-02,Standard Class,131807,Canada,Edmonton,Alberta,T5A,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,3
+1297,CA-2021-131807-CHO-TRI-54000,2021-10-05,2027-04-02,Standard Class,131807,Canada,Edmonton,Alberta,T5A,Chocolate,Pacific,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,4
+1298,CA-2021-131807-OTH-LIC-15000,2021-10-05,2027-04-02,Standard Class,131807,Canada,Calgary,Alberta,T1Y,Other,Pacific,OTH-LIC-15000,Lickable Wallpaper,20,5
+1299,CA-2021-131807-CHO-SCR-58000,2021-10-05,2027-04-02,Standard Class,131807,Canada,Edmonton,Alberta,T5A,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,1
+9007,CA-2024-131807-CHO-MIL-31000,2024-10-05,2030-04-02,Standard Class,131807,Canada,Calgary,Alberta,T1Y,Chocolate,Pacific,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+9008,CA-2024-131807-CHO-FUD-51000,2024-10-05,2030-04-02,Standard Class,131807,Canada,Edmonton,Alberta,T5A,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,5
+9009,CA-2024-131807-CHO-SCR-58000,2024-10-05,2030-04-02,Standard Class,131807,Canada,Edmonton,Alberta,T5A,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,2
+9010,CA-2024-131807-CHO-TRI-54000,2024-10-05,2030-04-02,Standard Class,131807,Canada,Edmonton,Alberta,T5A,Chocolate,Pacific,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,2
+9011,CA-2024-131807-OTH-LIC-15000,2024-10-05,2030-04-02,Standard Class,131807,Canada,Calgary,Alberta,T1Y,Other,Pacific,OTH-LIC-15000,Lickable Wallpaper,20,4
+9012,CA-2024-131807-CHO-SCR-58000,2024-10-05,2030-04-02,Standard Class,131807,Canada,Edmonton,Alberta,T5A,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,4
+1241,CA-2021-107153-CHO-FUD-51000,2021-09-28,2027-03-26,Standard Class,107153,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,2
+3135,CA-2022-153071-CHO-FUD-51000,2022-09-08,2028-03-04,Standard Class,153071,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,2
+5126,CA-2023-187423-CHO-FUD-51000,2023-06-28,2028-12-23,Standard Class,187423,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,6
+7680,CA-2024-135471-CHO-FUD-51000,2024-05-18,2029-11-15,Standard Class,135471,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,3
+2037,CA-2021-143500-CHO-SCR-58000,2021-12-30,2027-06-26,Standard Class,143500,Canada,Charlottetown,Prince Edward Island,C0A,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,3
+10194,CA-2024-143500-CHO-SCR-58000,2024-12-30,2030-06-26,Standard Class,143500,Canada,Charlottetown,Prince Edward Island,C0A,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,3
+5013,CA-2023-121465-CHO-MIL-31000,2023-06-12,2028-12-07,Standard Class,121465,Canada,Charlottetown,Prince Edward Island,C0A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+7195,CA-2024-130494-CHO-MIL-31000,2024-03-16,2029-09-11,Standard Class,130494,Canada,Charlottetown,Prince Edward Island,C0A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+5012,CA-2023-121465-CHO-MIL-31000,2023-06-12,2028-12-07,Standard Class,121465,Canada,Charlottetown,Prince Edward Island,C0A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,6
+7194,CA-2024-130494-CHO-MIL-31000,2024-03-16,2029-09-11,Standard Class,130494,Canada,Charlottetown,Prince Edward Island,C0A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,6
+5011,CA-2023-121465-CHO-NUT-13000,2023-06-12,2028-12-07,Standard Class,121465,Canada,Charlottetown,Prince Edward Island,C0A,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,5
+7193,CA-2024-130494-CHO-NUT-13000,2024-03-16,2029-09-11,Standard Class,130494,Canada,Charlottetown,Prince Edward Island,C0A,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,5
+5010,CA-2023-121465-CHO-SCR-58000,2023-06-12,2028-12-07,Standard Class,121465,Canada,Charlottetown,Prince Edward Island,C0A,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,3
+7192,CA-2024-130494-CHO-SCR-58000,2024-03-16,2029-09-11,Standard Class,130494,Canada,Charlottetown,Prince Edward Island,C0A,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,3
+936,CA-2021-132339-CHO-TRI-54000,2021-08-19,2027-02-13,Standard Class,132339,Canada,Montreal,Quebec,H1B,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,3
+8385,CA-2024-132339-CHO-TRI-54000,2024-08-19,2030-02-13,Standard Class,132339,Canada,Montreal,Quebec,H1B,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,3
+5180,CA-2023-112109-CHO-MIL-31000,2023-07-08,2029-01-01,Standard Class,112109,Canada,Winnipeg,Manitoba,R0H,Chocolate,Interior,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,3
+5181,CA-2023-112109-CHO-TRI-54000,2023-07-08,2029-01-01,Standard Class,112109,Canada,Winnipeg,Manitoba,R0H,Chocolate,Interior,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,9
+5182,CA-2023-112109-CHO-MIL-31000,2023-07-08,2029-01-01,Standard Class,112109,Canada,Winnipeg,Manitoba,R0H,Chocolate,Interior,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,1
+5183,CA-2023-112109-CHO-MIL-31000,2023-07-08,2029-01-01,Standard Class,112109,Canada,Winnipeg,Manitoba,R0H,Chocolate,Interior,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,3
+8089,CA-2024-112109-CHO-MIL-31000,2024-07-08,2030-01-02,Standard Class,112109,Canada,Winnipeg,Manitoba,R0H,Chocolate,Interior,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,3
+8090,CA-2024-112109-CHO-TRI-54000,2024-07-08,2030-01-02,Standard Class,112109,Canada,Winnipeg,Manitoba,R0H,Chocolate,Interior,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,4
+8091,CA-2024-112109-CHO-MIL-31000,2024-07-08,2030-01-02,Standard Class,112109,Canada,Winnipeg,Manitoba,R0H,Chocolate,Interior,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+8092,CA-2024-112109-CHO-MIL-31000,2024-07-08,2030-01-02,Standard Class,112109,Canada,Winnipeg,Manitoba,R0H,Chocolate,Interior,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,7
+4631,CA-2023-108735-CHO-TRI-54000,2023-04-17,2028-10-11,Standard Class,108735,Canada,Vancouver,British Columbia,V6E,Chocolate,Pacific,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,5
+7443,CA-2024-108735-CHO-TRI-54000,2024-04-17,2029-10-12,Standard Class,108735,Canada,Vancouver,British Columbia,V6E,Chocolate,Pacific,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,3
+1699,CA-2021-153623-CHO-SCR-58000,2021-11-24,2027-05-28,Standard Class,153623,Canada,St. John's,Newfoundland and Labrador,A0A,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,8
+1700,CA-2021-153623-CHO-SCR-58000,2021-11-24,2027-05-28,Standard Class,153623,Canada,St. John's,Newfoundland and Labrador,A0A,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,8
+2017,CA-2021-146626-CHO-SCR-58000,2021-12-29,2027-06-28,Standard Class,146626,Canada,St. John's,Newfoundland and Labrador,A0A,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,5
+6602,CA-2023-124626-CHO-SCR-58000,2023-12-10,2029-06-06,Standard Class,124626,Canada,St. John's,Newfoundland and Labrador,A0A,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,8
+9939,CA-2024-124626-CHO-SCR-58000,2024-12-10,2030-06-07,Standard Class,124626,Canada,St. John's,Newfoundland and Labrador,A0A,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,8
+10184,CA-2024-146626-CHO-SCR-58000,2024-12-29,2030-06-28,Standard Class,146626,Canada,St. John's,Newfoundland and Labrador,A0A,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,8
+5862,CA-2023-192314-CHO-SCR-58000,2023-09-26,2029-03-23,Second Class,192314,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,1
+8905,CA-2024-192314-CHO-SCR-58000,2024-09-26,2030-03-24,Second Class,192314,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,1
+4481,CA-2023-115483-CHO-SCR-58000,2023-03-19,2028-09-10,Second Class,115483,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,1
+7230,CA-2024-115483-CHO-SCR-58000,2024-03-19,2029-09-11,Second Class,115483,Canada,Quebec City,Quebec,G1B,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,1
+62,CA-2021-115238-CHO-FUD-51000,2021-01-21,2026-07-17,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,5
+63,CA-2021-115238-CHO-MIL-31000,2021-01-21,2026-07-17,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,1
+64,CA-2021-115238-CHO-TRI-54000,2021-01-21,2026-07-17,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,5
+65,CA-2021-115238-CHO-FUD-51000,2021-01-21,2026-07-17,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1
+66,CA-2021-115238-CHO-MIL-31000,2021-01-21,2026-07-17,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,10
+2096,CA-2022-115238-CHO-FUD-51000,2022-01-21,2027-07-17,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,5
+2097,CA-2022-115238-CHO-MIL-31000,2022-01-21,2027-07-17,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,1
+2098,CA-2022-115238-CHO-TRI-54000,2022-01-21,2027-07-17,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,5
+2099,CA-2022-115238-CHO-FUD-51000,2022-01-21,2027-07-17,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1
+2100,CA-2022-115238-CHO-MIL-31000,2022-01-21,2027-07-17,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,10
+4233,CA-2023-115238-CHO-FUD-51000,2023-01-21,2028-07-16,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,5
+4234,CA-2023-115238-CHO-MIL-31000,2023-01-21,2028-07-16,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,1
+4235,CA-2023-115238-CHO-TRI-54000,2023-01-21,2028-07-16,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,5
+4236,CA-2023-115238-CHO-FUD-51000,2023-01-21,2028-07-16,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1
+4237,CA-2023-115238-CHO-MIL-31000,2023-01-21,2028-07-16,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,10
+6915,CA-2024-115238-CHO-FUD-51000,2024-01-21,2029-07-16,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,5
+6916,CA-2024-115238-CHO-MIL-31000,2024-01-21,2029-07-16,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,1
+6917,CA-2024-115238-CHO-TRI-54000,2024-01-21,2029-07-16,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,5
+6918,CA-2024-115238-CHO-FUD-51000,2024-01-21,2029-07-16,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1
+6919,CA-2024-115238-CHO-MIL-31000,2024-01-21,2029-07-16,Standard Class,115238,Canada,Toronto,Ontario,M7A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,10
+1782,CA-2021-117964-CHO-TRI-54000,2021-12-02,2027-05-29,Standard Class,117964,Canada,Moncton,New Brunswick,E1A,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,5
+1783,CA-2021-117964-CHO-NUT-13000,2021-12-02,2027-05-29,Standard Class,117964,Canada,Moncton,New Brunswick,E1A,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,7
+3872,CA-2022-145154-CHO-TRI-54000,2022-12-02,2028-05-28,Standard Class,145154,Canada,Moncton,New Brunswick,E1A,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,5
+3873,CA-2022-154124-CHO-NUT-13000,2022-12-02,2028-05-28,Standard Class,154124,Canada,Moncton,New Brunswick,E1A,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,7
+6491,CA-2023-124574-CHO-TRI-54000,2023-12-02,2029-05-28,Standard Class,124574,Canada,Moncton,New Brunswick,E1A,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,5
+6492,CA-2023-111254-CHO-NUT-13000,2023-12-02,2029-05-28,Standard Class,111254,Canada,Moncton,New Brunswick,E1A,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,7
+9782,CA-2024-106541-CHO-TRI-54000,2024-12-02,2030-05-29,Standard Class,106541,Canada,Moncton,New Brunswick,E1A,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,5
+9783,CA-2024-145612-CHO-NUT-13000,2024-12-02,2030-05-29,Standard Class,145612,Canada,Moncton,New Brunswick,E1A,Chocolate,Atlantic,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,7
+1378,CA-2021-125388-OTH-LIC-15000,2021-10-19,2027-04-15,Standard Class,125388,Canada,Montreal,Quebec,H1A,Other,Atlantic,OTH-LIC-15000,Lickable Wallpaper,20,3
+1379,CA-2021-125388-CHO-SCR-58000,2021-10-19,2027-04-15,Standard Class,125388,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,4
+9128,CA-2024-125388-OTH-LIC-15000,2024-10-19,2030-04-15,Standard Class,125388,Canada,Montreal,Quebec,H1A,Other,Atlantic,OTH-LIC-15000,Lickable Wallpaper,20,2
+9129,CA-2024-125388-CHO-SCR-58000,2024-10-19,2030-04-15,Standard Class,125388,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,3
+631,CA-2021-184712-CHO-TRI-54000,2021-06-18,2026-12-11,Second Class,184712,Canada,Halifax,Nova Scotia,B3H,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,3
+1781,CA-2021-123664-CHO-MIL-31000,2021-12-02,2027-05-29,Standard Class,123664,Canada,Halifax,Nova Scotia,B3H,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,5
+3871,CA-2022-112224-CHO-MIL-31000,2022-12-02,2028-05-28,Standard Class,112224,Canada,Halifax,Nova Scotia,B3H,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,5
+6490,CA-2023-133541-CHO-MIL-31000,2023-12-02,2029-05-28,Standard Class,133541,Canada,Halifax,Nova Scotia,B3H,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,5
+7926,CA-2024-184712-CHO-TRI-54000,2024-06-18,2029-12-11,Second Class,184712,Canada,Halifax,Nova Scotia,B3H,Chocolate,Atlantic,CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,3
+9781,CA-2024-105471-CHO-MIL-31000,2024-12-02,2030-05-29,Standard Class,105471,Canada,Halifax,Nova Scotia,B3H,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,5
+180,CA-2021-139675-CHO-SCR-58000,2021-03-13,2026-09-08,Second Class,139675,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,4
+181,CA-2021-139675-CHO-MIL-31000,2021-03-13,2026-09-08,Second Class,139675,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,8
+2232,CA-2022-139675-CHO-SCR-58000,2022-03-13,2027-09-08,Second Class,139675,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,4
+2233,CA-2022-139675-CHO-MIL-31000,2022-03-13,2027-09-08,Second Class,139675,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,8
+4452,CA-2023-139675-CHO-SCR-58000,2023-03-13,2028-09-07,Second Class,139675,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,4
+4453,CA-2023-139675-CHO-MIL-31000,2023-03-13,2028-09-07,Second Class,139675,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,8
+7176,CA-2024-139675-CHO-SCR-58000,2024-03-13,2029-09-08,Second Class,139675,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,4
+7177,CA-2024-139675-CHO-MIL-31000,2024-03-13,2029-09-08,Second Class,139675,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,8
+2093,CA-2022-152681-CHO-MIL-31000,2022-01-17,2027-07-15,Standard Class,152681,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+4230,CA-2023-155412-CHO-MIL-31000,2023-01-17,2028-07-14,Standard Class,155412,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+6885,CA-2024-121451-CHO-MIL-31000,2024-01-17,2029-07-14,Standard Class,121451,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+9483,CA-2024-154121-CHO-MIL-31000,2024-11-14,2030-05-11,Standard Class,154121,Canada,Montreal,Quebec,H1A,Chocolate,Atlantic,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+5799,CA-2023-125724-CHO-MIL-31000,2023-09-22,2029-03-19,Standard Class,125724,Canada,Regina,Saskatchewan,S0G,Chocolate,Pacific,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+8837,CA-2024-125724-CHO-MIL-31000,2024-09-22,2030-03-20,Standard Class,125724,Canada,Regina,Saskatchewan,S0G,Chocolate,Pacific,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,7
+1787,CA-2021-119508-CHO-NUT-13000,2021-12-04,2027-06-01,Standard Class,119508,Canada,Vancouver,British Columbia,V6B,Chocolate,Pacific,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,6
+1788,CA-2021-119508-CHO-FUD-51000,2021-12-04,2027-06-01,Standard Class,119508,Canada,Vancouver,British Columbia,V6B,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,5
+3902,CA-2022-119508-CHO-NUT-13000,2022-12-04,2028-05-31,Standard Class,119508,Canada,Vancouver,British Columbia,V6B,Chocolate,Pacific,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,2
+3903,CA-2022-119508-CHO-FUD-51000,2022-12-04,2028-05-31,Standard Class,119508,Canada,Vancouver,British Columbia,V6B,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,4
+6518,CA-2023-119508-CHO-NUT-13000,2023-12-04,2029-05-31,Standard Class,119508,Canada,Vancouver,British Columbia,V6B,Chocolate,Pacific,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,6
+6519,CA-2023-119508-CHO-FUD-51000,2023-12-04,2029-05-31,Standard Class,119508,Canada,Vancouver,British Columbia,V6B,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,5
+9822,CA-2024-119508-CHO-NUT-13000,2024-12-04,2030-06-01,Standard Class,119508,Canada,Vancouver,British Columbia,V6B,Chocolate,Pacific,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,6
+9823,CA-2024-119508-CHO-FUD-51000,2024-12-04,2030-06-01,Standard Class,119508,Canada,Vancouver,British Columbia,V6B,Chocolate,Pacific,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,5
+5936,CA-2023-126627-CHO-FUD-51000,2023-10-10,2029-04-03,First Class,126627,Canada,Winnipeg,Manitoba,R3R,Chocolate,Interior,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1
+5937,CA-2023-126627-CHO-MIL-31000,2023-10-10,2029-04-03,First Class,126627,Canada,Winnipeg,Manitoba,R3R,Chocolate,Interior,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,1
+9054,CA-2024-126627-CHO-FUD-51000,2024-10-10,2030-04-04,First Class,126627,Canada,Winnipeg,Manitoba,R3R,Chocolate,Interior,CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,4
+9055,CA-2024-126627-CHO-MIL-31000,2024-10-10,2030-04-04,First Class,126627,Canada,Winnipeg,Manitoba,R3R,Chocolate,Interior,CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,2
+4008,CA-2022-155586-CHO-SCR-58000,2022-12-12,2028-06-07,Second Class,155586,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,4
+4009,CA-2022-155586-CHO-SCR-58000,2022-12-12,2028-06-07,Second Class,155586,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,4
+4010,CA-2022-155586-CHO-NUT-13000,2022-12-12,2028-06-07,Second Class,155586,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,4
+6644,CA-2023-155586-CHO-SCR-58000,2023-12-12,2029-06-07,Second Class,155586,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,1
+6645,CA-2023-155586-CHO-SCR-58000,2023-12-12,2029-06-07,Second Class,155586,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,4
+6646,CA-2023-155586-CHO-NUT-13000,2023-12-12,2029-06-07,Second Class,155586,Canada,Calgary,Alberta,T2C,Chocolate,Pacific,CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,4

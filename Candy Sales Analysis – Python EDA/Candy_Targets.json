@@ -1,0 +1,14 @@
+[
+    {
+        "Division": "Chocolate",
+        "Target": 27000
+    },
+    {
+        "Division": "Sugar",
+        "Target": 15000
+    },
+    {
+        "Division": "Other",
+        "Target": 3000
+    }
+]
